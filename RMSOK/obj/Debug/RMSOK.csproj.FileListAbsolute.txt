@@ -1,0 +1,68 @@
+C:\Users\group\source\repos\RMSOK\RMSOK\bin\Debug\RMSOK.exe.config
+C:\Users\group\source\repos\RMSOK\RMSOK\bin\Debug\RMSOK.exe
+C:\Users\group\source\repos\RMSOK\RMSOK\bin\Debug\RMSOK.pdb
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.csprojAssemblyReference.cache
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.Auth.resources
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Properties.Resources.resources
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.GenerateResource.cache
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.CoreCompileInputs.cache
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.exe
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.pdb
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.MainMenu.resources
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.UserControls.ucCeha.resources
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.UserControls.ucPers.resources
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fOtch.resources
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fTarifSet.resources
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fCeha.resources
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fPers.resources
+C:\Users\group\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.ResolveComReference.cache
+F:\RMSOK\RMSOK\bin\Debug\RMSOK.exe.config
+F:\RMSOK\RMSOK\bin\Debug\RMSOK.exe
+F:\RMSOK\RMSOK\bin\Debug\RMSOK.pdb
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.csprojAssemblyReference.cache
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.ResolveComReference.cache
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.Auth.resources
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fCeha.resources
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fOtch.resources
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fPers.resources
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fTarifSet.resources
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.MainMenu.resources
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.Properties.Resources.resources
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.GenerateResource.cache
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.CoreCompileInputs.cache
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.exe
+F:\RMSOK\RMSOK\obj\Debug\RMSOK.pdb
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\bin\Debug\RMSOK.exe.config
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\bin\Debug\RMSOK.exe
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\bin\Debug\RMSOK.pdb
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.AssemblyReference.cache
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.SuggestedBindingRedirects.cache
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.ResolveComReference.cache
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.Auth.resources
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fCeha.resources
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fOtch.resources
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fPers.resources
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fTarifSet.resources
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.MainMenu.resources
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.Properties.Resources.resources
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.GenerateResource.cache
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.CoreCompileInputs.cache
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.exe
+C:\Users\buten\OneDrive\Рабочий стол\RMSOK\RMSOK\obj\Debug\RMSOK.pdb
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\bin\Debug\RMSOK.exe.config
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\bin\Debug\RMSOK.exe
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\bin\Debug\RMSOK.pdb
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.AssemblyReference.cache
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.SuggestedBindingRedirects.cache
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.ResolveComReference.cache
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.Auth.resources
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fCeha.resources
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fOtch.resources
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fPers.resources
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fTarifSet.resources
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.MainMenu.resources
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.Properties.Resources.resources
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.GenerateResource.cache
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.CoreCompileInputs.cache
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.exe
+C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.pdb
