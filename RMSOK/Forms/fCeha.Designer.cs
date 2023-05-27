@@ -129,7 +129,7 @@ namespace RMSOK.Forms
             this.dgvCeha.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.dgvCeha.Size = new System.Drawing.Size(906, 302);
             this.dgvCeha.TabIndex = 0;
-            this.dgvCeha.DoubleClick += new System.EventHandler(this.dgvCeha_DoubleClick);
+            this.dgvCeha.DoubleClick += new System.EventHandler(this.DgvCeha_DoubleClick);
             // 
             // tableLayoutPanel2
             // 

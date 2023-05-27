@@ -66,3 +66,27 @@ C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug
 C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.CoreCompileInputs.cache
 C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.exe
 C:\Users\buten\OneDrive\Рабочий стол\Учеба\RMSOK\RMSOK\obj\Debug\RMSOK.pdb
+C:\Users\buten\source\repos\RMSOK\RMSOK\bin\Debug\RMSOK.exe.config
+C:\Users\buten\source\repos\RMSOK\RMSOK\bin\Debug\RMSOK.exe
+C:\Users\buten\source\repos\RMSOK\RMSOK\bin\Debug\RMSOK.pdb
+C:\Users\buten\source\repos\RMSOK\RMSOK\bin\Debug\UnitTestRMSOK.dll
+C:\Users\buten\source\repos\RMSOK\RMSOK\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\buten\source\repos\RMSOK\RMSOK\bin\Debug\UnitTestRMSOK.pdb
+C:\Users\buten\source\repos\RMSOK\RMSOK\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\buten\source\repos\RMSOK\RMSOK\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.AssemblyReference.cache
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.SuggestedBindingRedirects.cache
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.ResolveComReference.cache
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.Auth.resources
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fCeha.resources
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fOtch.resources
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fPers.resources
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.fTarifSet.resources
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.MainMenu.resources
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Properties.Resources.resources
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.GenerateResource.cache
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.CoreCompileInputs.cache
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.csproj.CopyComplete
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.exe
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.pdb
+C:\Users\buten\source\repos\RMSOK\RMSOK\obj\Debug\RMSOK.Forms.UpdateSetka.resources

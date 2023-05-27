@@ -7,7 +7,9 @@ namespace RMSOK.Class
 {
     class DataBank
     {
+#pragma warning disable CS0649 // Полю "DataBank.Namestud" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null.
         public static string Namestud;
+#pragma warning restore CS0649 // Полю "DataBank.Namestud" нигде не присваивается значение, поэтому оно всегда будет иметь значение по умолчанию null.
         public static string ConnStr = $@"Data Source=62.78.81.19;Initial Catalog=RmsokDB;
                                          Persist Security Info=True;
                                          User ID=25-тпБутенкоКС;Password=855696";

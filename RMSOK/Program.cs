@@ -16,7 +16,7 @@ namespace RMSOK
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Forms.Auth());
+            Application.Run(new Forms.MainMenu());
         }
     }
 }

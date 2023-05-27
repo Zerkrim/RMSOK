@@ -61,9 +61,9 @@ namespace RMSOK.Forms
                 cmd.Parameters.Add("@rukovod", SqlDbType.VarChar);
                 cmd.Parameters.Add("@status_", SqlDbType.VarChar);
 
-                cmd.Parameters["@fio"].Value = tbNaim.Text;
-                cmd.Parameters["@pasport"].Value = tbAress.Text;
-                cmd.Parameters["@snils"].Value = tbRukov.Text;
+                cmd.Parameters["@naimen"].Value = tbNaim.Text;
+                cmd.Parameters["@adress"].Value = tbAress.Text;
+                cmd.Parameters["@rukovod"].Value = tbRukov.Text;
                 cmd.Parameters["@status_"].Value = "нет";
 
                 cmd.ExecuteNonQuery();
@@ -254,7 +254,7 @@ namespace RMSOK.Forms
             LoadTrach();
         }
 
-        private void dgvCeha_DoubleClick(object sender, EventArgs e)
+        private void DgvCeha_DoubleClick(object sender, EventArgs e)
         {
             tbNaim.Text =dgvCeha.CurrentRow.Cells[1].Value.ToString();
             tbAress.Text = dgvCeha.CurrentRow.Cells[2].Value.ToString();
